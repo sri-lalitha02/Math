@@ -23,3 +23,4 @@ int main()
 	cout<<Num_Of_Zeroes;
 	
 }
+// Time complexity : O(log(n)) , space complexity : O(1)
